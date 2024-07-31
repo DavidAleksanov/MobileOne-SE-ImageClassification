@@ -5,7 +5,7 @@ This repository contains code for training and testing a headgear classification
 ## Project Structure
 
 ```
-mobileone-headgear-classification/
+
 |-- data/
 |   |-- dataset.py
 |-- models/
